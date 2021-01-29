@@ -1,0 +1,20 @@
+{
+  "name": "Week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemod": "^2.7.2"
+  },
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
